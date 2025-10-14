@@ -1,1 +1,192 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>PingPongPhysio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header">
+
+					<!-- Logo -->
+						<h1><a href="index.html">PingPongPhysio</a></h1>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								
+								<li><a href="index.html">Home</a></li>
+								<li><a href="left-sidebar.html">About</a></li>
+								<li>
+									<a href="#">Services</a>
+									<ul>
+									<li>
+											<li class="current"<a href="#">Private Coaching Sessions</a>
+											<ul>
+												<li class="current"><a href="#">1 to 1 session</a></li>
+												<li class="current"><a href="#">2 to 1 session</a></li>
+												<li class="current"><a href="#">Group session</a></li>
+											</ul>
+										</li>
+										<li class="current"><a href="#">Sports Massage</a></li>
+										<li class="current"><a href="#">Physiotherapy</a></li>
+									</ul>
+								</li>
+								<li><a href="right-sidebar.html">Sessions</a></li>
+								<li><a href="no-sidebar.html">Contact</a></li>
+							</ul>
+						</nav>
+
+					<!-- Banner -->
+						<section id="banner">
+							<header>
+								<h2>Spin Your Way Back to Health</h2>
+								<p>Improve Balance, Coordination, and Confidence</p>
+							</header>
+						</section>
+
+					<!-- Intro -->
+						<section id="intro" class="container">
+							<div class="row">
+								<div class="col-4 col-12-medium">
+									<section class="first">
+										<i class="icon solid featured fa-cog"></i>
+										<header>
+											<h2>Services</h2>
+										</header>
+										<p>I offer table tennis coaching and sports massage services to elevate your performance, fitness and wellbeing.</p>
+									</section>
+								</div>
+								<div class="col-4 col-12-medium">
+									<section class="middle">
+										<i class="icon solid featured alt2 fa-star"></i>
+										<header>
+											<h2>Goal</h2>
+										</header>
+										<p>My aim is to promote exercise, enhance skills and increase your enjoyment of table tennis.</p>
+									</section>
+								</div>
+								<div class="col-4 col-12-medium">
+									<section class="last">
+										<i class="icon solid featured alt fa-bolt"></i>
+										<header>
+											<h2>For all</h2>
+										</header>
+										<p>I am passionate about teaching table tennis to different ages and levels. I especially enjoy coaching to adapt to different learning styles.</p>
+									</section>
+								</div>
+							</div>
+						</section>
+
+				</section>
+			
+			<!-- Footer -->
+				<section id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="col-8 col-12-medium">
+								<section>
+									<header>
+										<h2>Weekly adult group coaching session</h2>
+										</p>
+											Location: Milton Keynes Table Tennis Centre
+											</p>
+											Time: 6:00pm-7:30pm and 7:30pm-9:00pm
+									</header>
+									<ul class="dates">
+										<li>
+											<span class="date">Oct <strong>13</strong></span>
+											<h3><a href="#">Adult group coaching</a></h3>
+											
+										</li>
+										<li>
+											<span class="date">Oct <strong>20</strong></span>
+											<h3><a href="#">Adult group coaching</a></h3>
+											
+										<li>
+											<span class="date">Oct <strong>27</strong></span>
+											<h3><a href="#">Adult group coaching</a></h3>
+											
+										</li>
+										<li>
+											<span class="date">Nov <strong>3</strong></span>
+											<h3><a href="#">Adult group coaching</a></h3>
+											
+										</li>
+									</ul>
+									<footer>
+										<ul class="actions">
+											<li><a href="right-sidebar.html" class="button">Book now</a></li>
+										</ul>
+									</footer>
+								</section>
+							</div>
+							<div class="col-4 col-12-medium">
+								<section>
+									<header>
+										<h2>Contact details</h2>
+									</header>
+									<ul class="contact">
+										<li>
+											<h3>Email</h3>
+											<p><a href="#">pingpongphysio@gmail.com</a></p>
+										</li>
+										<li>
+											<h3>Instagram</h3>
+											<p>pingpongphysio</p>
+										</li>
+									</ul>
+								</section>
+							</div>
+							<div class="col-12">
+
+								<!-- Copyright -->
+									<div id="copyright">
+										<ul class="links">
+											<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+										</ul>
+									</div>
+
+							</div>
+						</div>
+					</div>
+				</section>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
