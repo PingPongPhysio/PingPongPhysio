@@ -46,14 +46,6 @@
 							</ul>
 						</nav>
 
-					<!-- Banner -->
-						<section id="banner">
-							<header>
-								<h2>Spin Your Way Back to Health</h2>
-								<p>Improve Balance, Coordination, and Confidence</p>
-							</header>
-						</section>
-
 					<!-- Intro -->
 						<section id="intro" class="container">
 							<div class="row">
@@ -61,27 +53,32 @@
 									<section class="first">
 										<i class="icon solid featured fa-cog"></i>
 										<header>
-											<h2>Services</h2>
+											<h2>Table Tennis Coaching</h2>
 										</header>
-										<p>I offer table tennis coaching and sports massage services to elevate your performance, fitness and wellbeing.</p>
+										<p>
+1 to 1 private coaching: £50 per hour
+2 to 1 private coaching: £50 per hour (£25 each)
+3+ group coaching: £60 per hour
+
+</p>
 									</section>
 								</div>
 								<div class="col-4 col-12-medium">
 									<section class="middle">
 										<i class="icon solid featured alt2 fa-star"></i>
 										<header>
-											<h2>Goal</h2>
+											<h2>Massage</h2>
 										</header>
-										<p>My aim is to promote exercise, enhance skills and increase your enjoyment of table tennis.</p>
+										<p>Sports massage therapy / Relaxing massage therapy: 40 minutes:£55 / 60 minutes £70</p>
 									</section>
 								</div>
 								<div class="col-4 col-12-medium">
 									<section class="last">
 										<i class="icon solid featured alt fa-bolt"></i>
 										<header>
-											<h2>For all</h2>
+											<h2>Physiotherapy</h2>
 										</header>
-										<p>I am passionate about teaching table tennis to different ages and levels. I especially enjoy coaching to adapt to different learning styles.</p>
+										<p>Physiotherapy treatment will be available from 2026.</p>
 									</section>
 								</div>
 							</div>
