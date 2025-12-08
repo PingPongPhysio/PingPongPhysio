@@ -29,8 +29,8 @@
 						
 									<li><a href="Private coaching">Private coaching</a>
 									
-								<li><a href="right-sidebar.html"> Group session</a></li>
-								<li><a href="no-sidebar.html">Contact</a></li>
+								<li><a href="Group session"> Group session</a></li>
+								<li><a href="Contact">Contact</a></li>
 							</ul>
 						</nav>
 
@@ -194,6 +194,7 @@
 
 	</body>
 </html>
+
 
 
 
