@@ -29,7 +29,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-body {
+ {
 	line-height: 1;
 }
 
@@ -51,7 +51,7 @@ table {
 	border-spacing: 0;
 }
 
-body {
+ {
 	-webkit-text-size-adjust: none;
 }
 
@@ -2180,7 +2180,7 @@ input, select, textarea {
 		text-align: center;
 		position: relative;
 		padding: 8em 0;
-		margin: 6em 0 0 0;
+		margin: 4em 0 0 0;
 	}
 
 		#banner header {
