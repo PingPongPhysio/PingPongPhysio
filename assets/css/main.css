@@ -2174,12 +2174,12 @@ input, select, textarea {
 
 	#banner {
 		background: #CCE8F4 url("../../images/banner2.png");
-		background-position: center center;
+		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
-		padding: 7em 0;
+		padding: 10em 0;
 		margin: 2em 0 0 0;
 	}
 
